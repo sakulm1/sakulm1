@@ -6,9 +6,9 @@
 Embarking on a journey into iOS app development, I'm diving into creating intuitive applications for iOS devices. Through hands-on projects, I'm learning and utilizing technology to enhance user experiences and contribute to achieving goals efficiently. Each project is a new adventure and a step forward in my developmental journey.
 
 ### My Tools and Technologies:
-- **Languages:** Swift, Python
-- **Tools:** Xcode, VS-Code
-- **Frameworks:** SwiftUI
+- **Languages:** Swift
+- **Tools:** Xcode
+- **Frameworks:** SwiftUI, ...
 
 ## 🛡️ Cybersecurity
 The security of applications and data is crucial in our digitally connected world. I'm continually deepening my knowledge in cybersecurity to develop secure and reliable applications.
@@ -18,6 +18,7 @@ The security of applications and data is crucial in our digitally connected worl
 - Network Security
 - Ethical Hacking
 - Data Privacy
+- Python / C
 
 ## 🌱 Currently
 - Cybersecurity student 
