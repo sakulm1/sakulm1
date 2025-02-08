@@ -6,7 +6,7 @@ I am focused on building applications for iOS devices using Swift and SwiftUI.
 
 ### My Tools and Technologies:
 - **Languages:** Swift
-- **Frameworks:** SwiftUI
+- **Frameworks:** SwiftUI, PencilKit, HealthKit, SwiftData
 - **Backend:** Firebase/Firestore
 
 ## 🌱 Currently
